@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("aaaa");
 		System.out.println("22222"); //tannhn1010 push3
 		System.out.println("4444"); //tannhn1010 push4
+		System.out.println("tannhn 5");
 	}
 }
