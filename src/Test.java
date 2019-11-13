@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("4444"); //tannhn1010 push4
 		System.out.println("consau1010");
 		System.out.println("tannhn 5");
+		int a;
 	}
 }
